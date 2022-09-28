@@ -1,1 +1,1 @@
-# Linked Stack Data Structure Implementation
+# LinkedStack Data Structure Implementation
